@@ -1,0 +1,12 @@
+# make.fun kit (unpacked, not part of the entry)
+u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3-kit/
+u-pangg7-everyday-wonder-two-days-to-find-the-line-970432d3-kit.tar.gz
+
+# local run output (already copied into run1/ and run2/)
+/output/
+
+# build report and transcript bundle (not part of the entry)
+BUILD-REPORT.md
+transcripts.tar.gz
+*.tar.gz
+__pycache__/
